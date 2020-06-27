@@ -1,0 +1,1 @@
+@media all and (max-width:768px){ul.first li{width:100%}ul.first li{float:left;overflow:hidden}ul.second li{width:100%}ul.second li{float:left;overflow:hidden}ul.second:before{content:" ";clear:both;display:block}.home:before{content:" ";clear:both;display:block}}
